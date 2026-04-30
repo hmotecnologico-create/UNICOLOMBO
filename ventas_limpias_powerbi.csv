@@ -1,0 +1,16 @@
+﻿fecha,ciudad,producto,categoria,vendedor,ventas,costos,cantidad,descuento,utilidad,valor_descuento,ventas_netas,año,mes,nombre_mes
+2026-01-01,Cartagena,Laptop,Tecnología,Ana,2500000.0,1800000,2,0.05,700000.0,125000.0,2375000.0,2026,1,January
+2026-01-02,Bogotá,Mouse,Accesorios,Luis,80000.0,40000,5,0.0,40000.0,0.0,80000.0,2026,1,January
+2026-01-03,Cali,Teclado,Accesorios,Carlos,0.0,60000,3,0.03,-60000.0,0.0,0.0,2026,1,January
+2026-01-04,Cartagena,Monitor,Tecnología,Ana,1200000.0,900000,1,0.1,300000.0,120000.0,1080000.0,2026,1,January
+2026-01-05,Bogota,Laptop,Tecnología,Marta,3000000.0,2100000,2,0.08,900000.0,240000.0,2760000.0,2026,1,January
+2026-02-01,Medellín,Mouse,Accesorios,Luis,95000.0,45000,6,0.0,50000.0,0.0,95000.0,2026,2,February
+2026-02-03,Cali,Monitor,Tecnología,Carlos,1350000.0,950000,1,0.12,400000.0,162000.0,1188000.0,2026,2,February
+2026-02-05,Cartagena,Laptop,Tecnología,Ana,2800000.0,1950000,2,0.07,850000.0,196000.00000000003,2604000.0,2026,2,February
+2026-03-01,Bogotá,Teclado,Accesorios,Marta,130000.0,70000,4,0.04,60000.0,5200.0,124800.0,2026,3,March
+2026-03-04,Medellin,Laptop,Tecnología,Luis,3100000.0,2300000,2,0.06,800000.0,186000.0,2914000.0,2026,3,March
+2026-03-07,Cali,Monitor,Tecnología,Carlos,1500000.0,1000000,1,0.1,500000.0,150000.0,1350000.0,2026,3,March
+2026-04-01,Cartagena,Mouse,Accesorios,Ana,90000.0,42000,5,0.0,48000.0,0.0,90000.0,2026,4,April
+2026-04-03,Bogotá,Laptop,Tecnología,Marta,3500000.0,2500000,2,0.05,1000000.0,175000.0,3325000.0,2026,4,April
+2026-04-05,Cali,Teclado,Accesorios,Luis,0.0,65000,3,0.03,-65000.0,0.0,0.0,2026,4,April
+2026-04-07,Medellín,Monitor,Tecnología,Carlos,1700000.0,1200000,1,0.09,500000.0,153000.0,1547000.0,2026,4,April
